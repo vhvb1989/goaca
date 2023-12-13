@@ -6,5 +6,5 @@ metadata:
 services:
   api:
     project: ./server
-    language: python
+    language: python # using dockerfile. this won't matter. Just b/c azd requires it for now.
     host: containerapp

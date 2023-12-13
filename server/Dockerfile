@@ -12,7 +12,7 @@ COPY go.mod ./
 COPY . .
 
 # Expose the port on which the server will listen
-EXPOSE 8080
+EXPOSE 3100
 
 # Build and run the Go application
 CMD ["go", "run", "main.go"]
