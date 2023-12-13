@@ -1,6 +1,6 @@
 # Go Application for Azure Container Apps
 
-This is a simple Go application that can be deployed to Azure Container Apps using the Azure CLI.
+This is a simple Go application that can be deployed to Azure Container Apps using the Azure Developer CLI (azd).
 
 ## Prerequisites
 
